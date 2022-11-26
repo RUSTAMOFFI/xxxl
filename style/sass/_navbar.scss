@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    ul{
+        display: flex;
+        width: 600px;
+    }
+    .quti{
+        width: 130px;
+        display: flex;
+        gap: 10px;
+    }
+}
